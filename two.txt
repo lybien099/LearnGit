@@ -1,8 +1,3 @@
 Nhì thì thui rồi
 buồn như con chuồn chuồn
-<<<<<<< HEAD
-mỏi cổ quá test
-
-=======
-mỏi cổ quá s
->>>>>>> branching
+mỏi cổ quá branching
