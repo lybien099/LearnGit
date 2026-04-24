@@ -1,7 +1,3 @@
 Nhì thì thui rồi
 buồn như con chuồn chuồn
-<<<<<<< HEAD
 mỏi cổ quá s
-=======
-mỏi cổ quá ss
->>>>>>> branching
